@@ -29,7 +29,7 @@ header h1 {
 footer {
 	padding-left: 4rem;
 	text-align: left;
-	color: #fff;
+	color: #000;
 }
 
 form button {
@@ -43,8 +43,10 @@ form button {
 
 .social-media img {
 	width: 4rem;
-	background-color: #b1b1b1;
+	border: solid 2px #b1b1b1;
 	border-radius: 30%;
+	background: rgb(177,177,177);
+	background: linear-gradient(135deg, rgba(177,177,177,1) 27%, rgba(201,226,101,1) 100%);
 }
 
 
